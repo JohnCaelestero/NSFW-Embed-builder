@@ -155,12 +155,6 @@ The bot requires:
 
 ---
 
-## 📄 License
-
-Choose a license before publishing (MIT is recommended).
-
----
-
 ## ⚠️ Disclaimer
 
 This software is provided **as-is**, without warranty of any kind.
