@@ -1,0 +1,8 @@
+discord
+aiohttp
+logging
+os
+re
+io
+BeautifulSoup
+asyncio
